@@ -1,7 +1,7 @@
 ![Header](./images/github-header-banner.png)
 
 #### Prazer, me chamo Breno, tenho 16 anos e sou natural de Minas Gerais. Atualmente, estou no ensino médio cursando Técnico Integrado em Automação Industrial no IFMG. Gosto bastante de tecnologia e de adquirir novos conhecimentos. I use Linux BTW.
-</br></br>
+</br>
 
 # Tech Setup
 
